@@ -1,3 +1,6 @@
 [submodule "backend-integrado"]
 	path = backend-integrado
 	url = https://github.com/renangiaretta/backend-integrado.git
+[submodule "frontend-integrado"]
+	path = frontend-integrado
+	url = https://github.com/renangiaretta/frontend-integrado.git
