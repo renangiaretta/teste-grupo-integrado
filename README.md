@@ -43,15 +43,11 @@ Deve ser enviado um Documento de Identificação (CNH ou RG)
 
 # :bookmark_tabs: Ferramentas utilizadas 
 
+- NestJS;
+- NuxtJS;
 - Typescript;
-- NextJS;
-- Material UI;
-- Express;
-- Axios;
-- React Toastify;
-- React Icons;
-- SASS;
-- React Scroll;
+- Bootstrap;
+- Prisma;
 
 # 💻 Decisões tomadas e resultados
 
